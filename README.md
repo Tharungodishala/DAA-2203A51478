@@ -11,3 +11,5 @@ BUBBLESORT= https://github.com/Tharungodishala/DAA-2203A51478/blob/main/BUBBLESO
 Insertionsort= https://github.com/Tharungodishala/DAA-2203A51478/blob/main/Insertionsort.c
 
 WEEK-2-1(DAA)= https://github.com/Tharungodishala/DAA-2203A51478/blob/main/WEEK-2-1(DAA)%20.c
+
+binaraysearch= https://github.com/Tharungodishala/DAA-2203A51478/blob/main/binaray%20search%20ASS(DAA).c
