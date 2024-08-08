@@ -9,3 +9,5 @@ ASS-1(DAA)SEC= https://github.com/Tharungodishala/DAA-2203A51478/blob/main/ASS-1
 BUBBLESORT= https://github.com/Tharungodishala/DAA-2203A51478/blob/main/BUBBLESORT%20ASS%20(DAA).c
 
 Insertionsort= https://github.com/Tharungodishala/DAA-2203A51478/blob/main/Insertionsort.c
+
+WEEK-2-1(DAA)= https://github.com/Tharungodishala/DAA-2203A51478/blob/main/WEEK-2-1(DAA)%20.c
